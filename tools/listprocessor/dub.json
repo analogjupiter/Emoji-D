@@ -1,0 +1,9 @@
+{
+    "name": "emoji-list-processor",
+
+    "copyright": "Copyright © 2018  0xEAB",
+    "license": "BSL-1.0",
+
+    "targetName": "emojilp",
+    "targetPath": "bin"
+}
