@@ -15,6 +15,6 @@ import emojid;
 
 void main()
 {
-    writeln(Smileys.slightlySmilingFace);
+    writeln(cast(string)(Smileys.slightlySmilingFace));
 }
 ```
