@@ -16,5 +16,8 @@ import emojid;
 void main()
 {
     writeln(cast(string)(Smileys.slightlySmilingFace));
+    
+    string message = "Hello World " ~ People.wavingHand;
+    writeln(message);
 }
 ```
