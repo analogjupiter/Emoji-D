@@ -1,0 +1,14 @@
+{
+    "name": "emoji-d",
+    "description": "🙂📚  Unicode Emoji enum library",
+
+    "copyright": "Copyright © 2018  0xEAB",
+    "license": "public domain",
+
+    "authors": [
+        "Elias Batek (0xEAB)"
+    ],
+
+    "targetName": "emojid",
+    "targetPath": "bin"
+}
